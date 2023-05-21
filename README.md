@@ -1,16 +1,13 @@
-### Hi there 👋
+### I'm Vinnie, proud Cat Mafia member and A HS scholar 🧔
 
-<!--
-**vinniedaboi/vinniedaboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinniedaboi&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinniedaboi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on prediction models
+- 🌱 I’m currently learning prediction models
+- 👯 I’m looking to collaborate on any project
+- 🤔 I’m looking for help with getting a coding job
+- 💬 Ask me about pentesting, data science, machine learning, Unreal Engine, programming in general
+- 📫 How to reach me: vinnie5224@gmail.com
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I'm 14
