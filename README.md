@@ -18,4 +18,4 @@
 - 📫 How to reach me: vinnie5224@gmail.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm 14
-- 👨‍🚀 My portfolio: https://bespoke-pie-38007f.netlify.app
+- 👨‍🚀 My portfolio: https://bit.ly/3OqA5S3
