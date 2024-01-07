@@ -10,12 +10,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinniedaboi&repo=RustTokenLoggerForDiscord)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on a prediction model research paper
-- 🌱 I’m currently learning prediction models
+- 🌱 I’m currently advancing in competitive programming
 - 👯 I’m looking to collaborate on Research based projects
 - 🤔 I’m looking for help with getting a coding job
 - 💬 Ask me about pentesting, data science, machine learning, Unreal Engine, programming in general
 - 📫 How to reach me: vinnie5224@gmail.com
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I'm 14
+- ⚡ Fun fact: I'm 15
 - 👨‍🚀 My portfolio: https://bit.ly/3OqA5S3
