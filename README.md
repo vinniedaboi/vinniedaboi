@@ -1,4 +1,4 @@
-### I'm Vinnie, proud Cat Mafia member and A HS scholar 🧔
+### I'm Vinnie, A HS scholar an CS enthusiast 🧔
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinniedaboi&show_icons=true&theme=dracula)
 
