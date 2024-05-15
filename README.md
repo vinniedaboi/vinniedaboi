@@ -10,6 +10,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinniedaboi&repo=RustTokenLoggerForDiscord&theme=dark#gh-dark-mode-only)](https://github.com/vinniedaboi/RustTokenLoggerForDiscord)
 
+![TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/vinniedaboi.png)
+
+
 5+ years experience specializing in full‐stack dev, C, C++, Python, Rust, Java, JS, C, IOS Dev, ML, App Dev, and computer hacking/security. Super nerd who loves aviation, basketball, Linux and OS X and enjoys customising all of the development environment and to mess around with cybersecurity. Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 - 👯 I’m looking to collaborate on Research-based projects
